@@ -1,0 +1,22 @@
+{
+  "name": "prac-pro",
+  "version": "1.0.0",
+  "description": "prac pro npm and git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devaqa/Prac.git"
+  },
+  "author": "Dev Aqa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devaqa/Prac/issues"
+  },
+  "homepage": "https://github.com/devaqa/Prac#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
